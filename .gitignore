@@ -1,0 +1,14 @@
+# Visual Studio files
+.vs
+packages/
+
+# budget-planner/
+budget-planner/node_modules
+
+# BudgetPlanner.API
+BudgetPlanner.API/bin
+BudgetPlanner.API/obj
+
+# BudgetPlanner.API.Tests
+BudgetPlanner.API.Tests/bin
+BudgetPlanner.API.Tests/obj
